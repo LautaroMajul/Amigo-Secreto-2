@@ -16,8 +16,8 @@ Es un sencillo juego web que permite realizar sorteos de amigo secreto de manera
 1. Acceder a la página web del juego.  
 2. Ingresar los nombres de los participantes en el formulario a travez del botón "Añadir".  
 3. Presionar el botón de "Sortear amigo" para generar los emparejamientos.  
-4. Ver el resultado en pantalla.  
-
+4. Ver el resultado en pantalla.
+5. Luego de 3 segundos despues de realizar el sorteo la pagina se refresca.
 ## 📚 Dónde encontrar ayuda  
 
 Si tienes dudas o encuentras errores en el sistema, puedes:  
